@@ -10,5 +10,5 @@ Organize NLP related knowledge
 - Basic usage of seq2seq model
 - Stock prediction based on news
 - Build NER based on Transformer model
-- Practice with Python NLP processing
+- [Practice with Python NLP processing](https://github.com/AbandonBlue/nlp-overview/tree/main/Practice-with-Python-NLP-processing)
 - ...
