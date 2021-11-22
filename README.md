@@ -6,9 +6,10 @@ Organize NLP related knowledge
 - [Deep learning based keyword extraction](https://github.com/AbandonBlue/nlp-overview/tree/main/keyword-extraction)
 - [News Classification(BERT)](https://github.com/AbandonBlue/nlp-overview/tree/main/news-classification-bert)
 - [Build BERT model barly on keras framework](https://github.com/AbandonBlue/daily-ds/tree/main/model/keras-bert)
-- Basic usage of SBERT
-- Basic usage of seq2seq model
+- [BERT in QA](https://github.com/AbandonBlue/daily-ds/blob/main/model/bert_text_extraction.ipynb)
+- [Basic usage of SBERT](https://github.com/AbandonBlue/nlp-overview/tree/main/sbert)
+- [Basic usage of seq2seq model](https://github.com/AbandonBlue/nlp-overview/tree/main/seq2seq)
 - Stock prediction based on news
-- Build NER based on Transformer model
+- [Build NER based on Transformer model](https://github.com/AbandonBlue/daily-ds/blob/main/model/keras_NER_transformers.ipynb)
 - [Practice with Python NLP processing](https://github.com/AbandonBlue/nlp-overview/tree/main/Practice-with-Python-NLP-processing)
 - ...
