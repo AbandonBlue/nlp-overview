@@ -14,4 +14,5 @@ Organize NLP related knowledge
 - [Practice with Python NLP processing](https://github.com/AbandonBlue/nlp-overview/tree/main/Practice-with-Python-NLP-processing)
 - [Topic modeling](https://github.com/AbandonBlue/nlp-overview/tree/main/topic-model)
 - [Multimodal-entailment](https://github.com/AbandonBlue/daily-ds/blob/main/NLP/Multimodal_entailment.ipynb)
+- [Semantic-similarity-Roberta](https://github.com/AbandonBlue/nlp-overview/blob/main/semantic-search/Sematic_Similarity_with_RoBERTa.ipynb)
 - ...
